@@ -7,4 +7,4 @@ def display_board
   puts "   |   |   "
 end
 
-print display_board
+puts display_board
